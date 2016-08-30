@@ -25,3 +25,5 @@ Tasks for VSCode are declared in `.vscode/tasks.json`
 `Ctrl+P >> task 'ls'`- any other task name declared in `.vscode/tasks.json`
 
 Output files are in `wwwroot/app/`
+
+Test push to multiple remotes
